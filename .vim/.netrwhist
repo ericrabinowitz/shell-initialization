@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr-modules/crypto/tinycrypt/zephyr'
+let g:netrw_dirhist_7='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/lib/proxy-crypto/src'
+let g:netrw_dirhist_6='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/build'
+let g:netrw_dirhist_5='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/build/app'
+let g:netrw_dirhist_4='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/build'
+let g:netrw_dirhist_3='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/build/CMakeFiles'
+let g:netrw_dirhist_2='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/build'
+let g:netrw_dirhist_1='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/doc/guides/west'
+let g:netrw_dirhist_0='/Users/erabinowitz/proxy/mcuboot/fw-nrf/repos/zephyr/samples'
+let g:netrw_dirhist_9='/Users/erabinowitz/proxy/CT-1914/fw-nrf/repos/zephyr/lib'
